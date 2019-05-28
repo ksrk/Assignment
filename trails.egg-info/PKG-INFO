@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: trails
+Version: 1.0
+Summary: Demo application
+Home-page: UNKNOWN
+Author: Rameshkanth Subramani
+Author-email: jobs.ksrk@gmail.com
+License: UNKNOWN
+Description: Instruction to run this application.
+        1. Python flask application developed using python 3.7.1, Make sure similar
+           version running on the machine where code will be executed
+        2. Create virtual environment(https://virtualenv.pypa.io/en/latest/userguide/)
+           installation command will install on main python site packages which
+           contaminates
+        3.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
